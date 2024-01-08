@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1704548551 source:d:\strukdat\tubes\game.cpp
+	"game.h"
+
+1704676745 d:\strukdat\tubes\game.h
+	<iostream>
+
+1704548258 source:d:\strukdat\tubes\main.cpp
+	"game.h"
+
+1704358671 source:d:\strukdat\tubes\relation.cpp
+	"game.h"
+
+1704676757 source:d:\strukdat\tubes\menu.cpp
+	"game.h"
+
